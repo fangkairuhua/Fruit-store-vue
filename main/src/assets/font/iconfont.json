@@ -1,0 +1,121 @@
+{
+  "id": "1679354",
+  "name": "1970/06Vue项目",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "6750933",
+      "name": "mi",
+      "font_class": "mi",
+      "unicode": "e660",
+      "unicode_decimal": 58976
+    },
+    {
+      "icon_id": "13314443",
+      "name": "课程",
+      "font_class": "kecheng",
+      "unicode": "e6d0",
+      "unicode_decimal": 59088
+    },
+    {
+      "icon_id": "13314444",
+      "name": "箭头",
+      "font_class": "jiantou",
+      "unicode": "e6cf",
+      "unicode_decimal": 59087
+    },
+    {
+      "icon_id": "13330068",
+      "name": "短袖",
+      "font_class": "duanxiu",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "13330069",
+      "name": "短裤",
+      "font_class": "duanku",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "13334026",
+      "name": "Bank of China Tower",
+      "font_class": "BankofChinaTower",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "13334027",
+      "name": "Beijing-CCTV Headquarters",
+      "font_class": "Beijing-CCTVHeadquarters",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "13334028",
+      "name": "Brooklyn bridge",
+      "font_class": "Brooklynbridge",
+      "unicode": "e628",
+      "unicode_decimal": 58920
+    },
+    {
+      "icon_id": "13334029",
+      "name": "Burj Al Arab",
+      "font_class": "BurjAlArab",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "13334030",
+      "name": "Burj Khalifa Tower",
+      "font_class": "BurjKhalifaTower",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "13332669",
+      "name": "评论-1",
+      "font_class": "pinglun-",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "13332670",
+      "name": "评论-4",
+      "font_class": "pinglun-1",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "13332671",
+      "name": "点赞",
+      "font_class": "dianzan",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "13332672",
+      "name": "评论",
+      "font_class": "pinglun",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "13332673",
+      "name": "订单-1",
+      "font_class": "dingdan-",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "13332674",
+      "name": "设置-1",
+      "font_class": "shezhi-",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    }
+  ]
+}
